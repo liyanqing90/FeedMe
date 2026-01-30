@@ -1,0 +1,309 @@
+{
+  "sourceUrl": "https://openai.com/news/rss.xml",
+  "title": "OpenAI News",
+  "description": "The OpenAI blog",
+  "link": "https://openai.com/news",
+  "items": [
+    {
+      "title": "Inside OpenAI’s in-house data agent",
+      "link": "https://openai.com/index/inside-our-in-house-data-agent",
+      "pubDate": "Thu, 29 Jan 2026 10:00:00 GMT",
+      "isoDate": "2026-01-29T10:00:00.000Z",
+      "content": "How OpenAI built an in-house AI data agent that uses GPT-5, Codex, and memory to reason over massive datasets and deliver reliable insights in minutes.",
+      "contentSnippet": "How OpenAI built an in-house AI data agent that uses GPT-5, Codex, and memory to reason over massive datasets and deliver reliable insights in minutes.",
+      "creator": "",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Taisei Corporation shapes the next generation of talent with ChatGPT",
+      "link": "https://openai.com/index/taisei",
+      "pubDate": "Thu, 29 Jan 2026 00:00:00 GMT",
+      "isoDate": "2026-01-29T00:00:00.000Z",
+      "content": "Taisei Corporation uses ChatGPT Enterprise to support HR-led talent development and scale generative AI across its global construction business.",
+      "contentSnippet": "Taisei Corporation uses ChatGPT Enterprise to support HR-led talent development and scale generative AI across its global construction business.",
+      "creator": "",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Retiring GPT-4o, GPT-4.1, GPT-4.1 mini, and OpenAI o4-mini in ChatGPT",
+      "link": "https://openai.com/index/retiring-gpt-4o-and-older-models",
+      "pubDate": "Thu, 29 Jan 2026 00:00:00 GMT",
+      "isoDate": "2026-01-29T00:00:00.000Z",
+      "content": "On February 13, 2026, alongside the previously announced retirement⁠ of GPT‑5 (Instant, Thinking, and Pro), we will retire GPT‑4o, GPT‑4.1, GPT‑4.1 mini, and OpenAI o4-mini from ChatGPT. In the API, there are no changes at this time.",
+      "contentSnippet": "On February 13, 2026, alongside the previously announced retirement⁠ of GPT‑5 (Instant, Thinking, and Pro), we will retire GPT‑4o, GPT‑4.1, GPT‑4.1 mini, and OpenAI o4-mini from ChatGPT. In the API, there are no changes at this time.",
+      "creator": "",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "EMEA Youth & Wellbeing Grant",
+      "link": "https://openai.com/index/emea-youth-and-wellbeing-grant",
+      "pubDate": "Wed, 28 Jan 2026 01:00:00 GMT",
+      "isoDate": "2026-01-28T01:00:00.000Z",
+      "content": "Apply for the EMEA Youth & Wellbeing Grant, a €500,000 program funding NGOs and researchers advancing youth safety and wellbeing in the age of AI.",
+      "contentSnippet": "Apply for the EMEA Youth & Wellbeing Grant, a €500,000 program funding NGOs and researchers advancing youth safety and wellbeing in the age of AI.",
+      "creator": "",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "The next chapter for AI in the EU",
+      "link": "https://openai.com/index/the-next-chapter-for-ai-in-the-eu",
+      "pubDate": "Wed, 28 Jan 2026 01:00:00 GMT",
+      "isoDate": "2026-01-28T01:00:00.000Z",
+      "content": "OpenAI launches the EU Economic Blueprint 2.0 with new data, partnerships, and initiatives to accelerate AI adoption, skills, and growth across Europe.",
+      "contentSnippet": "OpenAI launches the EU Economic Blueprint 2.0 with new data, partnerships, and initiatives to accelerate AI adoption, skills, and growth across Europe.",
+      "creator": "",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Keeping your data safe when an AI agent clicks a link",
+      "link": "https://openai.com/index/ai-agent-link-safety",
+      "pubDate": "Wed, 28 Jan 2026 00:00:00 GMT",
+      "isoDate": "2026-01-28T00:00:00.000Z",
+      "content": "Learn how OpenAI protects user data when AI agents open links, preventing URL-based data exfiltration and prompt injection with built-in safeguards.",
+      "contentSnippet": "Learn how OpenAI protects user data when AI agents open links, preventing URL-based data exfiltration and prompt injection with built-in safeguards.",
+      "creator": "",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "PVH reimagines the future of fashion with OpenAI",
+      "link": "https://openai.com/index/pvh-future-of-fashion",
+      "pubDate": "Tue, 27 Jan 2026 06:00:00 GMT",
+      "isoDate": "2026-01-27T06:00:00.000Z",
+      "content": "PVH Corp., parent company of Calvin Klein and Tommy Hilfiger, is adopting ChatGPT Enterprise to bring AI into fashion design, supply chain, and consumer engagement.",
+      "contentSnippet": "PVH Corp., parent company of Calvin Klein and Tommy Hilfiger, is adopting ChatGPT Enterprise to bring AI into fashion design, supply chain, and consumer engagement.",
+      "creator": "",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Powering tax donations with AI powered personalized recommendations",
+      "link": "https://openai.com/index/trustbank",
+      "pubDate": "Tue, 27 Jan 2026 00:00:00 GMT",
+      "isoDate": "2026-01-27T00:00:00.000Z",
+      "content": "TRUSTBANK partnered with Recursive to build Choice AI using OpenAI models, delivering personalized, conversational recommendations that simplify Furusato Nozei gift discovery. A multi-agent system helps donors navigate thousands of options and find gifts that match their preferences.",
+      "contentSnippet": "TRUSTBANK partnered with Recursive to build Choice AI using OpenAI models, delivering personalized, conversational recommendations that simplify Furusato Nozei gift discovery. A multi-agent system helps donors navigate thousands of options and find gifts that match their preferences.",
+      "creator": "",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Introducing Prism",
+      "link": "https://openai.com/index/introducing-prism",
+      "pubDate": "Tue, 27 Jan 2026 00:00:00 GMT",
+      "isoDate": "2026-01-27T00:00:00.000Z",
+      "content": "Prism is a free LaTeX-native workspace with GPT-5.2 built in, helping researchers write, collaborate, and reason in one place.",
+      "contentSnippet": "Prism is a free LaTeX-native workspace with GPT-5.2 built in, helping researchers write, collaborate, and reason in one place.",
+      "creator": "",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "How Indeed uses AI to help evolve the job search",
+      "link": "https://openai.com/index/indeed-maggie-hulce",
+      "pubDate": "Mon, 26 Jan 2026 00:00:00 GMT",
+      "isoDate": "2026-01-26T00:00:00.000Z",
+      "content": "Indeed’s CRO Maggie Hulce shares how AI is transforming job search, recruiting, and talent acquisition for employers and job seekers.",
+      "contentSnippet": "Indeed’s CRO Maggie Hulce shares how AI is transforming job search, recruiting, and talent acquisition for employers and job seekers.",
+      "creator": "",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Unrolling the Codex agent loop",
+      "link": "https://openai.com/index/unrolling-the-codex-agent-loop",
+      "pubDate": "Fri, 23 Jan 2026 12:00:00 GMT",
+      "isoDate": "2026-01-23T12:00:00.000Z",
+      "content": "A technical deep dive into the Codex agent loop, explaining how Codex CLI orchestrates models, tools, prompts, and performance using the Responses API.",
+      "contentSnippet": "A technical deep dive into the Codex agent loop, explaining how Codex CLI orchestrates models, tools, prompts, and performance using the Responses API.",
+      "creator": "",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Scaling PostgreSQL to power 800 million ChatGPT users",
+      "link": "https://openai.com/index/scaling-postgresql",
+      "pubDate": "Thu, 22 Jan 2026 12:00:00 GMT",
+      "isoDate": "2026-01-22T12:00:00.000Z",
+      "content": "An inside look at how OpenAI scaled PostgreSQL to millions of queries per second using replicas, caching, rate limiting, and workload isolation.",
+      "contentSnippet": "An inside look at how OpenAI scaled PostgreSQL to millions of queries per second using replicas, caching, rate limiting, and workload isolation.",
+      "creator": "",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Inside Praktika's conversational approach to language learning",
+      "link": "https://openai.com/index/praktika",
+      "pubDate": "Thu, 22 Jan 2026 05:00:00 GMT",
+      "isoDate": "2026-01-22T05:00:00.000Z",
+      "content": "How Praktika uses GPT-4.1 and GPT-5.2 to build adaptive AI tutors that personalize lessons, track progress, and help learners achieve real-world language fluency",
+      "contentSnippet": "How Praktika uses GPT-4.1 and GPT-5.2 to build adaptive AI tutors that personalize lessons, track progress, and help learners achieve real-world language fluency",
+      "creator": "",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Inside GPT-5 for Work: How Businesses Use GPT-5",
+      "link": "https://openai.com/business/guides-and-resources/chatgpt-usage-and-adoption-patterns-at-work",
+      "pubDate": "Thu, 22 Jan 2026 00:00:00 GMT",
+      "isoDate": "2026-01-22T00:00:00.000Z",
+      "content": "A data-driven report on how workers across industries use ChatGPT—covering adoption trends, top tasks, departmental patterns, and the future of AI at work.",
+      "contentSnippet": "A data-driven report on how workers across industries use ChatGPT—covering adoption trends, top tasks, departmental patterns, and the future of AI at work.",
+      "creator": "",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "How Higgsfield turns simple ideas into cinematic social videos",
+      "link": "https://openai.com/index/higgsfield",
+      "pubDate": "Wed, 21 Jan 2026 10:00:00 GMT",
+      "isoDate": "2026-01-21T10:00:00.000Z",
+      "content": "Discover how Higgsfield gives creators cinematic, social-first video output from simple inputs using OpenAI GPT-4.1, GPT-5, and Sora 2.",
+      "contentSnippet": "Discover how Higgsfield gives creators cinematic, social-first video output from simple inputs using OpenAI GPT-4.1, GPT-5, and Sora 2.",
+      "creator": "",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "How countries can end the capability overhang",
+      "link": "https://openai.com/index/how-countries-can-end-the-capability-overhang",
+      "pubDate": "Wed, 21 Jan 2026 01:00:00 GMT",
+      "isoDate": "2026-01-21T01:00:00.000Z",
+      "content": "Our latest report reveals stark differences in advanced AI adoption across countries and outlines new initiatives to help nations capture productivity gains from AI.",
+      "contentSnippet": "Our latest report reveals stark differences in advanced AI adoption across countries and outlines new initiatives to help nations capture productivity gains from AI.",
+      "creator": "",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Introducing Edu for Countries",
+      "link": "https://openai.com/index/edu-for-countries",
+      "pubDate": "Wed, 21 Jan 2026 01:00:00 GMT",
+      "isoDate": "2026-01-21T01:00:00.000Z",
+      "content": "Edu for Countries is a new OpenAI initiative helping governments use AI to modernize education systems and build future-ready workforces.",
+      "contentSnippet": "Edu for Countries is a new OpenAI initiative helping governments use AI to modernize education systems and build future-ready workforces.",
+      "creator": "",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Horizon 1000: Advancing AI for primary healthcare",
+      "link": "https://openai.com/index/horizon-1000",
+      "pubDate": "Tue, 20 Jan 2026 21:00:00 GMT",
+      "isoDate": "2026-01-20T21:00:00.000Z",
+      "content": "OpenAI and the Gates Foundation launch Horizon 1000, a $50M pilot advancing AI capabilities for healthcare in Africa. The initiative aims to reach 1,000 clinics by 2028.",
+      "contentSnippet": "OpenAI and the Gates Foundation launch Horizon 1000, a $50M pilot advancing AI capabilities for healthcare in Africa. The initiative aims to reach 1,000 clinics by 2028.",
+      "creator": "",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Stargate Community",
+      "link": "https://openai.com/index/stargate-community",
+      "pubDate": "Tue, 20 Jan 2026 19:00:00 GMT",
+      "isoDate": "2026-01-20T19:00:00.000Z",
+      "content": "Stargate Community plans detail a community-first approach to AI infrastructure, using locally tailored plans shaped by community input, energy needs, and workforce priorities.",
+      "contentSnippet": "Stargate Community plans detail a community-first approach to AI infrastructure, using locally tailored plans shaped by community input, energy needs, and workforce priorities.",
+      "creator": "",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Cisco and OpenAI redefine enterprise engineering with AI agents",
+      "link": "https://openai.com/index/cisco",
+      "pubDate": "Tue, 20 Jan 2026 11:00:00 GMT",
+      "isoDate": "2026-01-20T11:00:00.000Z",
+      "content": "Cisco and OpenAI redefine enterprise engineering with Codex, an AI software agent embedded in workflows to speed builds, automate defect fixes, and enable AI-native development.",
+      "contentSnippet": "Cisco and OpenAI redefine enterprise engineering with Codex, an AI software agent embedded in workflows to speed builds, automate defect fixes, and enable AI-native development.",
+      "creator": "",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "ServiceNow powers actionable enterprise AI with OpenAI",
+      "link": "https://openai.com/index/servicenow-powers-actionable-enterprise-ai-with-openai",
+      "pubDate": "Tue, 20 Jan 2026 05:45:00 GMT",
+      "isoDate": "2026-01-20T05:45:00.000Z",
+      "content": "ServiceNow expands access to OpenAI frontier models to power AI-driven enterprise workflows, summarization, search, and voice across the ServiceNow Platform.",
+      "contentSnippet": "ServiceNow expands access to OpenAI frontier models to power AI-driven enterprise workflows, summarization, search, and voice across the ServiceNow Platform.",
+      "creator": "",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Our approach to age prediction",
+      "link": "https://openai.com/index/our-approach-to-age-prediction",
+      "pubDate": "Tue, 20 Jan 2026 00:00:00 GMT",
+      "isoDate": "2026-01-20T00:00:00.000Z",
+      "content": "ChatGPT is rolling out age prediction to estimate if accounts are under or over 18, applying safeguards for teens and refining accuracy over time.",
+      "contentSnippet": "ChatGPT is rolling out age prediction to estimate if accounts are under or over 18, applying safeguards for teens and refining accuracy over time.",
+      "creator": "",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "AI for self empowerment",
+      "link": "https://openai.com/index/ai-for-self-empowerment",
+      "pubDate": "Sun, 18 Jan 2026 12:00:00 GMT",
+      "isoDate": "2026-01-18T12:00:00.000Z",
+      "content": "How AI can expand human agency by closing the capability overhang—helping people, businesses, and countries unlock real productivity, growth, and opportunity.",
+      "contentSnippet": "How AI can expand human agency by closing the capability overhang—helping people, businesses, and countries unlock real productivity, growth, and opportunity.",
+      "creator": "",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "A business that scales with the value of intelligence",
+      "link": "https://openai.com/index/a-business-that-scales-with-the-value-of-intelligence",
+      "pubDate": "Sun, 18 Jan 2026 10:00:00 GMT",
+      "isoDate": "2026-01-18T10:00:00.000Z",
+      "content": "OpenAI’s business model scales with intelligence—spanning subscriptions, API, ads, commerce, and compute—driven by deepening ChatGPT adoption.",
+      "contentSnippet": "OpenAI’s business model scales with intelligence—spanning subscriptions, API, ads, commerce, and compute—driven by deepening ChatGPT adoption.",
+      "creator": "",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "The truth left out from Elon Musk’s recent court filing",
+      "link": "https://openai.com/index/the-truth-elon-left-out",
+      "pubDate": "Fri, 16 Jan 2026 12:00:00 GMT",
+      "isoDate": "2026-01-16T12:00:00.000Z",
+      "content": "The truth left out from Elon Musk’s recent court filing.",
+      "contentSnippet": "The truth left out from Elon Musk’s recent court filing.",
+      "creator": "",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Our approach to advertising and expanding access to ChatGPT",
+      "link": "https://openai.com/index/our-approach-to-advertising-and-expanding-access",
+      "pubDate": "Fri, 16 Jan 2026 00:00:00 GMT",
+      "isoDate": "2026-01-16T00:00:00.000Z",
+      "content": "OpenAI plans to test advertising in the U.S. for ChatGPT’s free and Go tiers to expand affordable access to AI worldwide, while protecting privacy, trust, and answer quality.",
+      "contentSnippet": "OpenAI plans to test advertising in the U.S. for ChatGPT’s free and Go tiers to expand affordable access to AI worldwide, while protecting privacy, trust, and answer quality.",
+      "creator": "",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Introducing ChatGPT Go, now available worldwide",
+      "link": "https://openai.com/index/introducing-chatgpt-go",
+      "pubDate": "Fri, 16 Jan 2026 00:00:00 GMT",
+      "isoDate": "2026-01-16T00:00:00.000Z",
+      "content": "ChatGPT Go is now available worldwide, offering expanded access to GPT-5.2 Instant, higher usage limits, and longer memory—making advanced AI more affordable globally.",
+      "contentSnippet": "ChatGPT Go is now available worldwide, offering expanded access to GPT-5.2 Instant, higher usage limits, and longer memory—making advanced AI more affordable globally.",
+      "creator": "",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Investing in Merge Labs",
+      "link": "https://openai.com/index/investing-in-merge-labs",
+      "pubDate": "Thu, 15 Jan 2026 07:00:00 GMT",
+      "isoDate": "2026-01-15T07:00:00.000Z",
+      "content": "OpenAI is investing in Merge Labs to support new brain computer interfaces that bridge biological and artificial intelligence to maximize human ability, agency, and experience.",
+      "contentSnippet": "OpenAI is investing in Merge Labs to support new brain computer interfaces that bridge biological and artificial intelligence to maximize human ability, agency, and experience.",
+      "creator": "",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Strengthening the U.S. AI supply chain through domestic manufacturing",
+      "link": "https://openai.com/index/strengthening-the-us-ai-supply-chain",
+      "pubDate": "Thu, 15 Jan 2026 00:00:00 GMT",
+      "isoDate": "2026-01-15T00:00:00.000Z",
+      "content": "OpenAI launches a new RFP to strengthen the U.S. AI supply chain by accelerating domestic manufacturing, creating jobs, and scaling AI infrastructure.",
+      "contentSnippet": "OpenAI launches a new RFP to strengthen the U.S. AI supply chain by accelerating domestic manufacturing, creating jobs, and scaling AI infrastructure.",
+      "creator": "",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "OpenAI partners with Cerebras  ",
+      "link": "https://openai.com/index/cerebras-partnership",
+      "pubDate": "Wed, 14 Jan 2026 14:00:00 GMT",
+      "isoDate": "2026-01-14T14:00:00.000Z",
+      "content": "OpenAI partners with Cerebras to add 750MW of high-speed AI compute, reducing inference latency and making ChatGPT faster for real-time AI workloads.",
+      "contentSnippet": "OpenAI partners with Cerebras to add 750MW of high-speed AI compute, reducing inference latency and making ChatGPT faster for real-time AI workloads.",
+      "creator": "",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    }
+  ],
+  "lastUpdated": "2026-01-30T09:09:48.096Z"
+}

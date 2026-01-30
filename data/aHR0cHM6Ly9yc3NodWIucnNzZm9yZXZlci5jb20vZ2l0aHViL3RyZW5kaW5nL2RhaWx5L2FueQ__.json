@@ -1,0 +1,149 @@
+{
+  "sourceUrl": "https://rsshub.rssforever.com/github/trending/daily/any",
+  "title": "Trending repositories on GitHub today · GitHub",
+  "description": "Trending repositories on GitHub today · GitHub - Powered by RSSHub",
+  "link": "https://github.com/trending/?since=daily&spoken_language_code=",
+  "items": [
+    {
+      "title": "openclaw/openclaw",
+      "link": "https://github.com/openclaw/openclaw",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/f3cfc62c8433fa64115828066d28e8e3320f33b0ad6478566c5d69aced289d8a/openclaw/openclaw\" referrerpolicy=\"no-referrer\"><br>Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞  <br><br>Language: TypeScript <br>Stars: 109853 <br>Forks: 15519",
+      "contentSnippet": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞  \nLanguage: TypeScript \nStars: 109853 \nForks: 15519",
+      "creator": "openclaw",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "asgeirtj/system_prompts_leaks",
+      "link": "https://github.com/asgeirtj/system_prompts_leaks",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/976921297/555f151b-8242-4590-932f-ccdf7b549cd6\" referrerpolicy=\"no-referrer\"><br>Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude &amp; Gemini <br><br>Language: JavaScript <br>Stars: 28068 <br>Forks: 4536",
+      "contentSnippet": "Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini \nLanguage: JavaScript \nStars: 28068 \nForks: 4536",
+      "creator": "asgeirtj",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "MoonshotAI/kimi-cli",
+      "link": "https://github.com/MoonshotAI/kimi-cli",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/557cae92b24fc8966423977be4ed4e14947b131cf00907fad24683947bf7fb62/MoonshotAI/kimi-cli\" referrerpolicy=\"no-referrer\"><br>Kimi Code CLI is your next CLI agent. <br><br>Language: Python <br>Stars: 5120 <br>Forks: 481",
+      "contentSnippet": "Kimi Code CLI is your next CLI agent. \nLanguage: Python \nStars: 5120 \nForks: 481",
+      "creator": "MoonshotAI",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "modelcontextprotocol/ext-apps",
+      "link": "https://github.com/modelcontextprotocol/ext-apps",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/435450562605e584f58f20ee0900293937a2cc8973a53690aca94455e874e624/modelcontextprotocol/ext-apps\" referrerpolicy=\"no-referrer\"><br>Official repo for spec &amp; SDK of MCP Apps protocol - standard for UIs embedded AI chatbots, served by MCP servers <br><br>Language: TypeScript <br>Stars: 918 <br>Forks: 113",
+      "contentSnippet": "Official repo for spec & SDK of MCP Apps protocol - standard for UIs embedded AI chatbots, served by MCP servers \nLanguage: TypeScript \nStars: 918 \nForks: 113",
+      "creator": "modelcontextprotocol",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "NevaMind-AI/memU",
+      "link": "https://github.com/NevaMind-AI/memU",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/1028070615/af79b134-ac3f-4efb-9f95-5de0dc77a63d\" referrerpolicy=\"no-referrer\"><br>Memory for 24/7 proactive agents like openclaw (moltbot, clawdbot). <br><br>Language: Python <br>Stars: 6244 <br>Forks: 432",
+      "contentSnippet": "Memory for 24/7 proactive agents like openclaw (moltbot, clawdbot). \nLanguage: Python \nStars: 6244 \nForks: 432",
+      "creator": "NevaMind-AI",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "hashicorp/vault",
+      "link": "https://github.com/hashicorp/vault",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/31288958/d8be4100-6117-11e9-9fed-1313b514f343\" referrerpolicy=\"no-referrer\"><br>A tool for secrets management, encryption as a service, and privileged access management <br><br>Language: Go <br>Stars: 34704 <br>Forks: 4565",
+      "contentSnippet": "A tool for secrets management, encryption as a service, and privileged access management \nLanguage: Go \nStars: 34704 \nForks: 4565",
+      "creator": "hashicorp",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "badlogic/pi-mono",
+      "link": "https://github.com/badlogic/pi-mono",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/0ae740b6869f98a7779b3cfc906f8ddb9f758cbbf70d96dc7873903499881715/badlogic/pi-mono\" referrerpolicy=\"no-referrer\"><br>AI agent toolkit: coding agent CLI, unified LLM API, TUI &amp; web UI libraries, Slack bot, vLLM pods <br><br>Language: TypeScript <br>Stars: 3573 <br>Forks: 422",
+      "contentSnippet": "AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods \nLanguage: TypeScript \nStars: 3573 \nForks: 422",
+      "creator": "badlogic",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "anomalyco/opencode-anthropic-auth",
+      "link": "https://github.com/anomalyco/opencode-anthropic-auth",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/41816768917a6f2bb6a96ae8a5bd32880ddba36c973df2efb40abf7a7ed448fb/anomalyco/opencode-anthropic-auth\" referrerpolicy=\"no-referrer\"><br>null <br><br>Language: JavaScript <br>Stars: 295 <br>Forks: 51",
+      "contentSnippet": "null \nLanguage: JavaScript \nStars: 295 \nForks: 51",
+      "creator": "anomalyco",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "protocolbuffers/protobuf",
+      "link": "https://github.com/protocolbuffers/protobuf",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/27b47fff0a9d3d549a16e580e20acb692c8b0f7071006721626a82010ed6218a/protocolbuffers/protobuf\" referrerpolicy=\"no-referrer\"><br>Protocol Buffers - Google's data interchange format <br><br>Language: C++ <br>Stars: 70538 <br>Forks: 16025",
+      "contentSnippet": "Protocol Buffers - Google's data interchange format \nLanguage: C++ \nStars: 70538 \nForks: 16025",
+      "creator": "protocolbuffers",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "pedroslopez/whatsapp-web.js",
+      "link": "https://github.com/pedroslopez/whatsapp-web.js",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/171072967/f0240000-b107-11ea-8c2e-02755c9b1505\" referrerpolicy=\"no-referrer\"><br>A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app <br><br>Language: JavaScript <br>Stars: 20767 <br>Forks: 4811",
+      "contentSnippet": "A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app \nLanguage: JavaScript \nStars: 20767 \nForks: 4811",
+      "creator": "pedroslopez",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "TeamNewPipe/NewPipe",
+      "link": "https://github.com/TeamNewPipe/NewPipe",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/cb0c2f166e479365631dd210ffa06702d7709e2e7c1aa64fba234d0efd411a60/TeamNewPipe/NewPipe\" referrerpolicy=\"no-referrer\"><br>A libre lightweight streaming front-end for Android. <br><br>Language: Java <br>Stars: 36796 <br>Forks: 3419",
+      "contentSnippet": "A libre lightweight streaming front-end for Android. \nLanguage: Java \nStars: 36796 \nForks: 3419",
+      "creator": "TeamNewPipe",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Shubhamsaboo/awesome-llm-apps",
+      "link": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/2e633a4a72eeeee8af13bde24cf56af42acdfe2e163e45012bd1903b8963be56/Shubhamsaboo/awesome-llm-apps\" referrerpolicy=\"no-referrer\"><br>Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models. <br><br>Language: Python <br>Stars: 91049 <br>Forks: 13141",
+      "contentSnippet": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models. \nLanguage: Python \nStars: 91049 \nForks: 13141",
+      "creator": "Shubhamsaboo",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "microsoft/playwright-cli",
+      "link": "https://github.com/microsoft/playwright-cli",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/e16051fda27b3db81e74aec996ac7dc739354fde5a9d4d79203dfb883fdaedad/microsoft/playwright-cli\" referrerpolicy=\"no-referrer\"><br>CLI for common Playwright actions. Record and generate Playwright code, inspect selectors and take screenshots. <br><br>Language: Unknown <br>Stars: 1790 <br>Forks: 69",
+      "contentSnippet": "CLI for common Playwright actions. Record and generate Playwright code, inspect selectors and take screenshots. \nLanguage: Unknown \nStars: 1790 \nForks: 69",
+      "creator": "microsoft",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "lobehub/lobehub",
+      "link": "https://github.com/lobehub/lobehub",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/643445235/04ef610f-69b2-4044-9565-9a7b9e2fd65e\" referrerpolicy=\"no-referrer\"><br>The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you. We are taking agent harness to the next level — enabling multi-agent collaboration, effortless agent team design, and introducing agents as the unit of work interaction. <br><br>Language: TypeScript <br>Stars: 71355 <br>Forks: 14548",
+      "contentSnippet": "The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you. We are taking agent harness to the next level — enabling multi-agent collaboration, effortless agent team design, and introducing agents as the unit of work interaction. \nLanguage: TypeScript \nStars: 71355 \nForks: 14548",
+      "creator": "lobehub",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    }
+  ],
+  "lastUpdated": "2026-01-30T09:09:48.342Z"
+}

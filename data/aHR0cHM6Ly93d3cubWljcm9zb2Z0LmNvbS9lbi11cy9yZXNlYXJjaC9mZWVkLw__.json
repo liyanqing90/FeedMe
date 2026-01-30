@@ -1,0 +1,117 @@
+{
+  "sourceUrl": "https://www.microsoft.com/en-us/research/feed/",
+  "title": "Microsoft Research",
+  "description": "",
+  "link": "https://www.microsoft.com/en-us/research/",
+  "items": [
+    {
+      "title": "UniRG: Scaling medical imaging report generation with multimodal reinforcement learning",
+      "link": "https://www.microsoft.com/en-us/research/blog/unirg-scaling-medical-imaging-report-generation-with-multimodal-reinforcement-learning/",
+      "pubDate": "Tue, 27 Jan 2026 17:00:00 +0000",
+      "isoDate": "2026-01-27T17:00:00.000Z",
+      "content": "<p>AI can help generate medical image reports, but today’s models struggle with varying reporting schemes. Learn how UniRG uses reinforcement learning to boost performance of medical vision-language models.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/research/blog/unirg-scaling-medical-imaging-report-generation-with-multimodal-reinforcement-learning/\">UniRG: Scaling medical imaging report generation with multimodal reinforcement learning</a> appeared first on <a href=\"https://www.microsoft.com/en-us/research\">Microsoft Research</a>.</p>\n",
+      "contentSnippet": "AI can help generate medical image reports, but today’s models struggle with varying reporting schemes. Learn how UniRG uses reinforcement learning to boost performance of medical vision-language models.\nThe post UniRG: Scaling medical imaging report generation with multimodal reinforcement learning appeared first on Microsoft Research.",
+      "creator": "Sheng Zhang, Flora Liu, Guanghui Qin, Mu Wei, Hoifung Poon",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Multimodal reinforcement learning with agentic verifier for AI agents",
+      "link": "https://www.microsoft.com/en-us/research/blog/multimodal-reinforcement-learning-with-agentic-verifier-for-ai-agents/",
+      "pubDate": "Tue, 20 Jan 2026 17:00:00 +0000",
+      "isoDate": "2026-01-20T17:00:00.000Z",
+      "content": "<p>Argos improves multimodal RL by evaluating whether an agent’s reasoning aligns with what it observes over time. The approach reduces visual hallucinations and produces more reliable, data-efficient agents for real-world applications.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/research/blog/multimodal-reinforcement-learning-with-agentic-verifier-for-ai-agents/\">Multimodal reinforcement learning with agentic verifier for AI agents</a> appeared first on <a href=\"https://www.microsoft.com/en-us/research\">Microsoft Research</a>.</p>\n",
+      "contentSnippet": "Argos improves multimodal RL by evaluating whether an agent’s reasoning aligns with what it observes over time. The approach reduces visual hallucinations and produces more reliable, data-efficient agents for real-world applications.\nThe post Multimodal reinforcement learning with agentic verifier for AI agents appeared first on Microsoft Research.",
+      "creator": "Reuben Tan, Baolin Peng, Zhengyuan Yang, Oier Mees, Jianfeng Gao",
+      "enclosure": {
+        "url": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/01/argos-demo-video.mp4",
+        "type": "video/mp4"
+      },
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "OptiMind: A small language model with optimization expertise",
+      "link": "https://www.microsoft.com/en-us/research/blog/optimind-a-small-language-model-with-optimization-expertise/",
+      "pubDate": "Thu, 15 Jan 2026 14:00:00 +0000",
+      "isoDate": "2026-01-15T14:00:00.000Z",
+      "content": "<p>OptiMind is a small language model that converts business operation challenges, described naturally, into mathematical formulations that optimization software can solve. It reduces formulation time &#038; errors &#038; enables fast, privacy-preserving local use.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/research/blog/optimind-a-small-language-model-with-optimization-expertise/\">OptiMind: A small language model with optimization expertise</a> appeared first on <a href=\"https://www.microsoft.com/en-us/research\">Microsoft Research</a>.</p>\n",
+      "contentSnippet": "OptiMind is a small language model that converts business operation challenges, described naturally, into mathematical formulations that optimization software can solve. It reduces formulation time & errors & enables fast, privacy-preserving local use.\nThe post OptiMind: A small language model with optimization expertise appeared first on Microsoft Research.",
+      "creator": "Xinzhi Zhang, Zeyi Chen, Humishka Hope, Hugo Barbalho, Konstantina Mellou, Marco Molinaro, Janardhan (Jana) Kulkarni, Ishai Menache, Sirui Li",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Agent Lightning: Adding reinforcement learning to AI agents without code rewrites",
+      "link": "https://www.microsoft.com/en-us/research/blog/agent-lightning-adding-reinforcement-learning-to-ai-agents-without-code-rewrites/",
+      "pubDate": "Thu, 11 Dec 2025 17:00:00 +0000",
+      "isoDate": "2025-12-11T17:00:00.000Z",
+      "content": "<p>By decoupling how agents work from how they’re trained, Agent Lightning turns each step an agent takes into data for reinforcement learning. This makes it easy for developers to improve agent performance with almost zero code changes.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/research/blog/agent-lightning-adding-reinforcement-learning-to-ai-agents-without-code-rewrites/\">Agent Lightning: Adding reinforcement learning to AI agents without code rewrites</a> appeared first on <a href=\"https://www.microsoft.com/en-us/research\">Microsoft Research</a>.</p>\n",
+      "contentSnippet": "By decoupling how agents work from how they’re trained, Agent Lightning turns each step an agent takes into data for reinforcement learning. This makes it easy for developers to improve agent performance with almost zero code changes.\nThe post Agent Lightning: Adding reinforcement learning to AI agents without code rewrites appeared first on Microsoft Research.",
+      "creator": "Xufang Luo, Yuge Zhang, Zhiyuan He, Zilong Wang, Dongsheng Li, Luna K. Qiu, Yuqing Yang",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Promptions helps make AI prompting more precise with dynamic UI controls",
+      "link": "https://www.microsoft.com/en-us/research/blog/promptions-helps-make-ai-prompting-more-precise-with-dynamic-ui-controls/",
+      "pubDate": "Wed, 10 Dec 2025 17:00:00 +0000",
+      "isoDate": "2025-12-10T17:00:00.000Z",
+      "content": "<p>Promptions helps developers add dynamic, context-aware controls to chat interfaces so users can guide generative AI responses. It lets users shape outputs quickly without writing long instructions.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/research/blog/promptions-helps-make-ai-prompting-more-precise-with-dynamic-ui-controls/\">Promptions helps make AI prompting more precise with dynamic UI controls</a> appeared first on <a href=\"https://www.microsoft.com/en-us/research\">Microsoft Research</a>.</p>\n",
+      "contentSnippet": "Promptions helps developers add dynamic, context-aware controls to chat interfaces so users can guide generative AI responses. It lets users shape outputs quickly without writing long instructions.\nThe post Promptions helps make AI prompting more precise with dynamic UI controls appeared first on Microsoft Research.",
+      "creator": "Sean Rintel, Advait Sarkar, Jack Williams, Nicholas Wilson, Richard Banks, Neeltje Berger, Philipp Steinacher, Payod Panda, Ian Drosos",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "GigaTIME: Scaling tumor microenvironment modeling using virtual population generated by multimodal AI",
+      "link": "https://www.microsoft.com/en-us/research/blog/gigatime-scaling-tumor-microenvironment-modeling-using-virtual-population-generated-by-multimodal-ai/",
+      "pubDate": "Tue, 09 Dec 2025 16:00:00 +0000",
+      "isoDate": "2025-12-09T16:00:00.000Z",
+      "content": "<p>Using AI-generated virtual populations, Microsoft researchers uncovered hidden cellular patterns that could reshape how we understand and treat cancer. </p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/research/blog/gigatime-scaling-tumor-microenvironment-modeling-using-virtual-population-generated-by-multimodal-ai/\">GigaTIME: Scaling tumor microenvironment modeling using virtual population generated by multimodal AI</a> appeared first on <a href=\"https://www.microsoft.com/en-us/research\">Microsoft Research</a>.</p>\n",
+      "contentSnippet": "Using AI-generated virtual populations, Microsoft researchers uncovered hidden cellular patterns that could reshape how we understand and treat cancer. \nThe post GigaTIME: Scaling tumor microenvironment modeling using virtual population generated by multimodal AI appeared first on Microsoft Research.",
+      "creator": "Hoifung Poon, Jeya Maria Jose Valanarasu, Naoto Usuyama, Sheng Wang",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Ideas: Community building, machine learning, and the future of AI",
+      "link": "https://www.microsoft.com/en-us/research/podcast/ideas-community-building-machine-learning-and-the-future-of-ai/",
+      "pubDate": "Mon, 01 Dec 2025 19:18:20 +0000",
+      "isoDate": "2025-12-01T19:18:20.000Z",
+      "content": "<p>As the Women in Machine Learning Workshop (WiML) marks its 20th annual gathering, cofounders, friends, and collaborators Jenn Wortman Vaughan and Hanna Wallach reflect on WiML’s evolution, navigating the field of ML, and their work in responsible AI.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/research/podcast/ideas-community-building-machine-learning-and-the-future-of-ai/\">Ideas: Community building, machine learning, and the future of AI</a> appeared first on <a href=\"https://www.microsoft.com/en-us/research\">Microsoft Research</a>.</p>\n",
+      "contentSnippet": "As the Women in Machine Learning Workshop (WiML) marks its 20th annual gathering, cofounders, friends, and collaborators Jenn Wortman Vaughan and Hanna Wallach reflect on WiML’s evolution, navigating the field of ML, and their work in responsible AI.\nThe post Ideas: Community building, machine learning, and the future of AI appeared first on Microsoft Research.",
+      "creator": "Jenn Wortman Vaughan, Hanna Wallach",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Reducing Privacy leaks in AI: Two approaches to contextual integrity ",
+      "link": "https://www.microsoft.com/en-us/research/blog/reducing-privacy-leaks-in-ai-two-approaches-to-contextual-integrity/",
+      "pubDate": "Tue, 25 Nov 2025 17:00:00 +0000",
+      "isoDate": "2025-11-25T17:00:00.000Z",
+      "content": "<p>New research explores two ways to give AI agents stronger privacy safeguards grounded in contextual integrity. One adds lightweight, inference-time checks; the other builds contextual awareness directly into models through reasoning and RL.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/research/blog/reducing-privacy-leaks-in-ai-two-approaches-to-contextual-integrity/\">Reducing Privacy leaks in AI: Two approaches to contextual integrity </a> appeared first on <a href=\"https://www.microsoft.com/en-us/research\">Microsoft Research</a>.</p>\n",
+      "contentSnippet": "New research explores two ways to give AI agents stronger privacy safeguards grounded in contextual integrity. One adds lightweight, inference-time checks; the other builds contextual awareness directly into models through reasoning and RL.\nThe post Reducing Privacy leaks in AI: Two approaches to contextual integrity  appeared first on Microsoft Research.",
+      "creator": "Gbola Afonja, Huseyin Atahan Inan, Qingwei Lin 林庆维, Saravan Rajmohan, Robert Sim, Xiaoting Qin, Jue Zhang, Lukas Wutschitz",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Fara-7B: An Efficient Agentic Model for Computer Use",
+      "link": "https://www.microsoft.com/en-us/research/blog/fara-7b-an-efficient-agentic-model-for-computer-use/",
+      "pubDate": "Mon, 24 Nov 2025 18:00:00 +0000",
+      "isoDate": "2025-11-24T18:00:00.000Z",
+      "content": "<p>Fara-7B is our first agentic small language model for computer use. This experimental model includes robust safety measures to aid responsible deployment. Despite its size, Fara-7B holds its own against larger, more resource-intensive agentic systems.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/research/blog/fara-7b-an-efficient-agentic-model-for-computer-use/\">Fara-7B: An Efficient Agentic Model for Computer Use</a> appeared first on <a href=\"https://www.microsoft.com/en-us/research\">Microsoft Research</a>.</p>\n",
+      "contentSnippet": "Fara-7B is our first agentic small language model for computer use. This experimental model includes robust safety measures to aid responsible deployment. Despite its size, Fara-7B holds its own against larger, more resource-intensive agentic systems.\nThe post Fara-7B: An Efficient Agentic Model for Computer Use appeared first on Microsoft Research.",
+      "creator": "Ahmed Awadallah, Akshay Nambi, Alexey Taymanov, Aravind Rajeswaran, Corby Rosset, Hussein Mozannar, Spencer Whitehead, Vibhav Vineet, Yash Lara, Yash Pandya, Andrew Zhao",
+      "enclosure": {
+        "url": "https://www.microsoft.com/en-us/research/wp-content/uploads/2025/11/fara_xbox_multi_turn-3.mp4",
+        "type": "video/mp4"
+      },
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "MMCTAgent: Enabling multimodal reasoning over large video and image collections",
+      "link": "https://www.microsoft.com/en-us/research/blog/mmctagent-enabling-multimodal-reasoning-over-large-video-and-image-collections/",
+      "pubDate": "Wed, 12 Nov 2025 12:00:20 +0000",
+      "isoDate": "2025-11-12T12:00:20.000Z",
+      "content": "<p>MMCTAgent enables dynamic multimodal reasoning with iterative planning and reflection. Built on Microsoft’s AutoGen framework, it integrates language, vision, and temporal understanding for complex tasks like long video and image analysis.</p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/research/blog/mmctagent-enabling-multimodal-reasoning-over-large-video-and-image-collections/\">MMCTAgent: Enabling multimodal reasoning over large video and image collections</a> appeared first on <a href=\"https://www.microsoft.com/en-us/research\">Microsoft Research</a>.</p>\n",
+      "contentSnippet": "MMCTAgent enables dynamic multimodal reasoning with iterative planning and reflection. Built on Microsoft’s AutoGen framework, it integrates language, vision, and temporal understanding for complex tasks like long video and image analysis.\nThe post MMCTAgent: Enabling multimodal reasoning over large video and image collections appeared first on Microsoft Research.",
+      "creator": "Akshay Nambi, Kavyansh Chourasia, Tanuja Ganu",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    }
+  ],
+  "lastUpdated": "2026-01-30T09:10:02.601Z"
+}

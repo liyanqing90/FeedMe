@@ -1,0 +1,99 @@
+{
+  "sourceUrl": "https://rsshub.rssforever.com/github/trending/weekly/any",
+  "title": "Trending repositories on GitHub this week · GitHub",
+  "description": "Trending repositories on GitHub this week · GitHub - Powered by RSSHub",
+  "link": "https://github.com/trending/?since=weekly&spoken_language_code=",
+  "items": [
+    {
+      "title": "openclaw/openclaw",
+      "link": "https://github.com/openclaw/openclaw",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/3a34083b49b03f2a05f25ee3c60d25defe6104a8b1deab2018b6cf77a47a4eb6/openclaw/openclaw\" referrerpolicy=\"no-referrer\"><br>Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞  <br><br>Language: TypeScript <br>Stars: 109925 <br>Forks: 15533",
+      "contentSnippet": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞  \nLanguage: TypeScript \nStars: 109925 \nForks: 15533",
+      "creator": "openclaw",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "remotion-dev/remotion",
+      "link": "https://github.com/remotion-dev/remotion",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/274495425/970f34be-47bd-4010-9def-bc1bf7fb0669\" referrerpolicy=\"no-referrer\"><br>🎥      Make videos programmatically with React <br><br>Language: TypeScript <br>Stars: 33737 <br>Forks: 2031",
+      "contentSnippet": "🎥      Make videos programmatically with React \nLanguage: TypeScript \nStars: 33737 \nForks: 2031",
+      "creator": "remotion-dev",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "VectifyAI/PageIndex",
+      "link": "https://github.com/VectifyAI/PageIndex",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/c799c6445fa3516750b58ff786791e0276a3d99cc6f74cbfa97fa76a5f03862a/VectifyAI/PageIndex\" referrerpolicy=\"no-referrer\"><br>📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG <br><br>Language: Python <br>Stars: 10707 <br>Forks: 767",
+      "contentSnippet": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG \nLanguage: Python \nStars: 10707 \nForks: 767",
+      "creator": "VectifyAI",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "OpenBMB/UltraRAG",
+      "link": "https://github.com/OpenBMB/UltraRAG",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/917628875/675ba10f-161c-46b0-9c8f-0cc6485b99a4\" referrerpolicy=\"no-referrer\"><br>UltraRAG v3: A Low-Code MCP Framework for Building Complex and Innovative RAG Pipelines <br><br>Language: Python <br>Stars: 4816 <br>Forks: 340",
+      "contentSnippet": "UltraRAG v3: A Low-Code MCP Framework for Building Complex and Innovative RAG Pipelines \nLanguage: Python \nStars: 4816 \nForks: 340",
+      "creator": "OpenBMB",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "asgeirtj/system_prompts_leaks",
+      "link": "https://github.com/asgeirtj/system_prompts_leaks",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/976921297/555f151b-8242-4590-932f-ccdf7b549cd6\" referrerpolicy=\"no-referrer\"><br>Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude &amp; Gemini <br><br>Language: JavaScript <br>Stars: 28071 <br>Forks: 4536",
+      "contentSnippet": "Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini \nLanguage: JavaScript \nStars: 28071 \nForks: 4536",
+      "creator": "asgeirtj",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "modelcontextprotocol/ext-apps",
+      "link": "https://github.com/modelcontextprotocol/ext-apps",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/435450562605e584f58f20ee0900293937a2cc8973a53690aca94455e874e624/modelcontextprotocol/ext-apps\" referrerpolicy=\"no-referrer\"><br>Official repo for spec &amp; SDK of MCP Apps protocol - standard for UIs embedded AI chatbots, served by MCP servers <br><br>Language: TypeScript <br>Stars: 918 <br>Forks: 113",
+      "contentSnippet": "Official repo for spec & SDK of MCP Apps protocol - standard for UIs embedded AI chatbots, served by MCP servers \nLanguage: TypeScript \nStars: 918 \nForks: 113",
+      "creator": "modelcontextprotocol",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "anthropics/skills",
+      "link": "https://github.com/anthropics/skills",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/b98a66d56bf41510f939a348e2ee1ab37b734debf34c26501967067e41469f59/anthropics/skills\" referrerpolicy=\"no-referrer\"><br>Public repository for Agent Skills <br><br>Language: Python <br>Stars: 58563 <br>Forks: 5735",
+      "contentSnippet": "Public repository for Agent Skills \nLanguage: Python \nStars: 58563 \nForks: 5735",
+      "creator": "anthropics",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "obra/superpowers",
+      "link": "https://github.com/obra/superpowers",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://opengraph.githubassets.com/fa4a341615a1c46baed78471d7009556671be7425a4ebee92bf3fb6f4263765a/obra/superpowers\" referrerpolicy=\"no-referrer\"><br>An agentic skills framework &amp; software development methodology that works. <br><br>Language: Shell <br>Stars: 40205 <br>Forks: 3059",
+      "contentSnippet": "An agentic skills framework & software development methodology that works. \nLanguage: Shell \nStars: 40205 \nForks: 3059",
+      "creator": "obra",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "iOfficeAI/AionUi",
+      "link": "https://github.com/iOfficeAI/AionUi",
+      "pubDate": "",
+      "isoDate": "",
+      "content": "<img src=\"https://repository-images.githubusercontent.com/1033778670/0da6d112-5587-4c5e-a0f4-9a9cf232044a\" referrerpolicy=\"no-referrer\"><br>Free, local, open-source 24/7 Cowork and Clawdbot for Gemini CLI, Claude Code, Codex, OpenCode, Qwen Code, Goose CLI, Auggie, and more | 🌟 Star if you like it! <br><br>Language: TypeScript <br>Stars: 11876 <br>Forks: 894",
+      "contentSnippet": "Free, local, open-source 24/7 Cowork and Clawdbot for Gemini CLI, Claude Code, Codex, OpenCode, Qwen Code, Goose CLI, Auggie, and more | 🌟 Star if you like it! \nLanguage: TypeScript \nStars: 11876 \nForks: 894",
+      "creator": "iOfficeAI",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    }
+  ],
+  "lastUpdated": "2026-01-30T09:09:52.026Z"
+}

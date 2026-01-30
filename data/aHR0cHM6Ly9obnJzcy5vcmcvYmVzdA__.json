@@ -1,0 +1,309 @@
+{
+  "sourceUrl": "https://hnrss.org/best",
+  "title": "Hacker News: Best",
+  "description": "Hacker News RSS",
+  "link": "https://news.ycombinator.com/best",
+  "items": [
+    {
+      "title": "Moltbook",
+      "link": "https://www.moltbook.com/",
+      "pubDate": "Fri, 30 Jan 2026 03:55:34 +0000",
+      "isoDate": "2026-01-30T03:55:34.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.moltbook.com/\">https://www.moltbook.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46820360\">https://news.ycombinator.com/item?id=46820360</a></p>\n<p>Points: 308</p>\n<p># Comments: 156</p>\n",
+      "contentSnippet": "Article URL: https://www.moltbook.com/\nComments URL: https://news.ycombinator.com/item?id=46820360\nPoints: 308\n# Comments: 156",
+      "creator": "teej",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Grid: Free, local-first, browser-based 3D printing/CNC/laser slicer",
+      "link": "https://grid.space/stem/",
+      "pubDate": "Thu, 29 Jan 2026 22:38:57 +0000",
+      "isoDate": "2026-01-29T22:38:57.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://grid.space/stem/\">https://grid.space/stem/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46817813\">https://news.ycombinator.com/item?id=46817813</a></p>\n<p>Points: 277</p>\n<p># Comments: 93</p>\n",
+      "contentSnippet": "Article URL: https://grid.space/stem/\nComments URL: https://news.ycombinator.com/item?id=46817813\nPoints: 277\n# Comments: 93",
+      "creator": "cyrusradfar",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "PlayStation 2 Recompilation Project Is Absolutely Incredible",
+      "link": "https://redgamingtech.com/playstation-2-recompilation-project-is-absolutely-incredible/",
+      "pubDate": "Thu, 29 Jan 2026 18:55:38 +0000",
+      "isoDate": "2026-01-29T18:55:38.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://redgamingtech.com/playstation-2-recompilation-project-is-absolutely-incredible/\">https://redgamingtech.com/playstation-2-recompilation-project-is-absolutely-incredible/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46814743\">https://news.ycombinator.com/item?id=46814743</a></p>\n<p>Points: 409</p>\n<p># Comments: 192</p>\n",
+      "contentSnippet": "Article URL: https://redgamingtech.com/playstation-2-recompilation-project-is-absolutely-incredible/\nComments URL: https://news.ycombinator.com/item?id=46814743\nPoints: 409\n# Comments: 192",
+      "creator": "croes",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "County pays $600k to pentesters it arrested for assessing courthouse security",
+      "link": "https://arstechnica.com/security/2026/01/county-pays-600000-to-pentesters-it-arrested-for-assessing-courthouse-security/",
+      "pubDate": "Thu, 29 Jan 2026 18:48:09 +0000",
+      "isoDate": "2026-01-29T18:48:09.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://arstechnica.com/security/2026/01/county-pays-600000-to-pentesters-it-arrested-for-assessing-courthouse-security/\">https://arstechnica.com/security/2026/01/county-pays-600000-to-pentesters-it-arrested-for-assessing-courthouse-security/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46814614\">https://news.ycombinator.com/item?id=46814614</a></p>\n<p>Points: 389</p>\n<p># Comments: 179</p>\n",
+      "contentSnippet": "Article URL: https://arstechnica.com/security/2026/01/county-pays-600000-to-pentesters-it-arrested-for-assessing-courthouse-security/\nComments URL: https://news.ycombinator.com/item?id=46814614\nPoints: 389\n# Comments: 179",
+      "creator": "MBCook",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Tesla is committing automotive suicide",
+      "link": "https://electrek.co/2026/01/29/tesla-committing-automotive-suicide/",
+      "pubDate": "Thu, 29 Jan 2026 18:16:45 +0000",
+      "isoDate": "2026-01-29T18:16:45.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://electrek.co/2026/01/29/tesla-committing-automotive-suicide/\">https://electrek.co/2026/01/29/tesla-committing-automotive-suicide/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46814089\">https://news.ycombinator.com/item?id=46814089</a></p>\n<p>Points: 265</p>\n<p># Comments: 312</p>\n",
+      "contentSnippet": "Article URL: https://electrek.co/2026/01/29/tesla-committing-automotive-suicide/\nComments URL: https://news.ycombinator.com/item?id=46814089\nPoints: 265\n# Comments: 312",
+      "creator": "jethronethro",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Project Genie: Experimenting with infinite, interactive worlds",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/project-genie/",
+      "pubDate": "Thu, 29 Jan 2026 17:02:39 +0000",
+      "isoDate": "2026-01-29T17:02:39.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://blog.google/innovation-and-ai/models-and-research/google-deepmind/project-genie/\">https://blog.google/innovation-and-ai/models-and-research/google-deepmind/project-genie/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46812933\">https://news.ycombinator.com/item?id=46812933</a></p>\n<p>Points: 564</p>\n<p># Comments: 274</p>\n",
+      "contentSnippet": "Article URL: https://blog.google/innovation-and-ai/models-and-research/google-deepmind/project-genie/\nComments URL: https://news.ycombinator.com/item?id=46812933\nPoints: 564\n# Comments: 274",
+      "creator": "meetpateltech",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "US cybersecurity chief leaked sensitive government files to ChatGPT: Report",
+      "link": "https://www.dexerto.com/entertainment/us-cybersecurity-chief-leaked-sensitive-government-files-to-chatgpt-report-3311462/",
+      "pubDate": "Thu, 29 Jan 2026 16:12:19 +0000",
+      "isoDate": "2026-01-29T16:12:19.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.dexerto.com/entertainment/us-cybersecurity-chief-leaked-sensitive-government-files-to-chatgpt-report-3311462/\">https://www.dexerto.com/entertainment/us-cybersecurity-chief-leaked-sensitive-government-files-to-chatgpt-report-3311462/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46812173\">https://news.ycombinator.com/item?id=46812173</a></p>\n<p>Points: 426</p>\n<p># Comments: 33</p>\n",
+      "contentSnippet": "Article URL: https://www.dexerto.com/entertainment/us-cybersecurity-chief-leaked-sensitive-government-files-to-chatgpt-report-3311462/\nComments URL: https://news.ycombinator.com/item?id=46812173\nPoints: 426\n# Comments: 33",
+      "creator": "randycupertino",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Drug trio found to block tumour resistance in pancreatic cancer in mouse models",
+      "link": "https://www.drugtargetreview.com/news/192714/drug-trio-found-to-block-tumour-resistance-in-pancreatic-cancer/",
+      "pubDate": "Thu, 29 Jan 2026 16:11:04 +0000",
+      "isoDate": "2026-01-29T16:11:04.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.drugtargetreview.com/news/192714/drug-trio-found-to-block-tumour-resistance-in-pancreatic-cancer/\">https://www.drugtargetreview.com/news/192714/drug-trio-found-to-block-tumour-resistance-in-pancreatic-cancer/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46812159\">https://news.ycombinator.com/item?id=46812159</a></p>\n<p>Points: 253</p>\n<p># Comments: 136</p>\n",
+      "contentSnippet": "Article URL: https://www.drugtargetreview.com/news/192714/drug-trio-found-to-block-tumour-resistance-in-pancreatic-cancer/\nComments URL: https://news.ycombinator.com/item?id=46812159\nPoints: 253\n# Comments: 136",
+      "creator": "axiomdata316",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Waymo robotaxi hits a child near an elementary school in Santa Monica",
+      "link": "https://techcrunch.com/2026/01/29/waymo-robotaxi-hits-a-child-near-an-elementary-school-in-santa-monica/",
+      "pubDate": "Thu, 29 Jan 2026 14:08:56 +0000",
+      "isoDate": "2026-01-29T14:08:56.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://techcrunch.com/2026/01/29/waymo-robotaxi-hits-a-child-near-an-elementary-school-in-santa-monica/\">https://techcrunch.com/2026/01/29/waymo-robotaxi-hits-a-child-near-an-elementary-school-in-santa-monica/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46810401\">https://news.ycombinator.com/item?id=46810401</a></p>\n<p>Points: 426</p>\n<p># Comments: 678</p>\n",
+      "contentSnippet": "Article URL: https://techcrunch.com/2026/01/29/waymo-robotaxi-hits-a-child-near-an-elementary-school-in-santa-monica/\nComments URL: https://news.ycombinator.com/item?id=46810401\nPoints: 426\n# Comments: 678",
+      "creator": "voxadam",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Claude Code daily benchmarks for degradation tracking",
+      "link": "https://marginlab.ai/trackers/claude-code/",
+      "pubDate": "Thu, 29 Jan 2026 13:59:07 +0000",
+      "isoDate": "2026-01-29T13:59:07.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://marginlab.ai/trackers/claude-code/\">https://marginlab.ai/trackers/claude-code/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46810282\">https://news.ycombinator.com/item?id=46810282</a></p>\n<p>Points: 658</p>\n<p># Comments: 307</p>\n",
+      "contentSnippet": "Article URL: https://marginlab.ai/trackers/claude-code/\nComments URL: https://news.ycombinator.com/item?id=46810282\nPoints: 658\n# Comments: 307",
+      "creator": "qwesr123",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "A lot of population numbers are fake",
+      "link": "https://davidoks.blog/p/a-lot-of-population-numbers-are-fake",
+      "pubDate": "Thu, 29 Jan 2026 13:36:54 +0000",
+      "isoDate": "2026-01-29T13:36:54.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://davidoks.blog/p/a-lot-of-population-numbers-are-fake\">https://davidoks.blog/p/a-lot-of-population-numbers-are-fake</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46810027\">https://news.ycombinator.com/item?id=46810027</a></p>\n<p>Points: 334</p>\n<p># Comments: 276</p>\n",
+      "contentSnippet": "Article URL: https://davidoks.blog/p/a-lot-of-population-numbers-are-fake\nComments URL: https://news.ycombinator.com/item?id=46810027\nPoints: 334\n# Comments: 276",
+      "creator": "bookofjoe",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "AGENTS.md outperforms skills in our agent evals",
+      "link": "https://vercel.com/blog/agents-md-outperforms-skills-in-our-agent-evals",
+      "pubDate": "Thu, 29 Jan 2026 13:08:11 +0000",
+      "isoDate": "2026-01-29T13:08:11.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://vercel.com/blog/agents-md-outperforms-skills-in-our-agent-evals\">https://vercel.com/blog/agents-md-outperforms-skills-in-our-agent-evals</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46809708\">https://news.ycombinator.com/item?id=46809708</a></p>\n<p>Points: 323</p>\n<p># Comments: 137</p>\n",
+      "contentSnippet": "Article URL: https://vercel.com/blog/agents-md-outperforms-skills-in-our-agent-evals\nComments URL: https://news.ycombinator.com/item?id=46809708\nPoints: 323\n# Comments: 137",
+      "creator": "maximedupre",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "The tech market is fundamentally fucked up and AI is just a scapegoat",
+      "link": "https://bayramovanar.substack.com/p/tech-market-is-fucked-up",
+      "pubDate": "Thu, 29 Jan 2026 12:03:13 +0000",
+      "isoDate": "2026-01-29T12:03:13.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://bayramovanar.substack.com/p/tech-market-is-fucked-up\">https://bayramovanar.substack.com/p/tech-market-is-fucked-up</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46809069\">https://news.ycombinator.com/item?id=46809069</a></p>\n<p>Points: 301</p>\n<p># Comments: 208</p>\n",
+      "contentSnippet": "Article URL: https://bayramovanar.substack.com/p/tech-market-is-fucked-up\nComments URL: https://news.ycombinator.com/item?id=46809069\nPoints: 301\n# Comments: 208",
+      "creator": "Bayramovanar",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Vitamin D and Omega-3 have a larger effect on depression than antidepressants",
+      "link": "https://blog.ncase.me/on-depression/",
+      "pubDate": "Thu, 29 Jan 2026 10:35:00 +0000",
+      "isoDate": "2026-01-29T10:35:00.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://blog.ncase.me/on-depression/\">https://blog.ncase.me/on-depression/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46808251\">https://news.ycombinator.com/item?id=46808251</a></p>\n<p>Points: 872</p>\n<p># Comments: 609</p>\n",
+      "contentSnippet": "Article URL: https://blog.ncase.me/on-depression/\nComments URL: https://news.ycombinator.com/item?id=46808251\nPoints: 872\n# Comments: 609",
+      "creator": "mijailt",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Europe’s next-generation weather satellite sends back first images",
+      "link": "https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/meteosat_third_generation/Europe_s_next-generation_weather_satellite_sends_back_first_images",
+      "pubDate": "Thu, 29 Jan 2026 07:07:17 +0000",
+      "isoDate": "2026-01-29T07:07:17.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/meteosat_third_generation/Europe_s_next-generation_weather_satellite_sends_back_first_images\">https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/meteosat_third_generation/Europe_s_next-generation_weather_satellite_sends_back_first_images</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46806773\">https://news.ycombinator.com/item?id=46806773</a></p>\n<p>Points: 672</p>\n<p># Comments: 92</p>\n",
+      "contentSnippet": "Article URL: https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/meteosat_third_generation/Europe_s_next-generation_weather_satellite_sends_back_first_images\nComments URL: https://news.ycombinator.com/item?id=46806773\nPoints: 672\n# Comments: 92",
+      "creator": "saubeidl",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "We can’t send mail farther than 500 miles (2002)",
+      "link": "https://web.mit.edu/jemorris/humor/500-miles",
+      "pubDate": "Thu, 29 Jan 2026 03:58:33 +0000",
+      "isoDate": "2026-01-29T03:58:33.000Z",
+      "content": "\n<p>See also <a href=\"https://ibiblio.org/harris/500milemail-faq.html\" rel=\"nofollow\">https://ibiblio.org/harris/500milemail-faq.html</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46805665\">https://news.ycombinator.com/item?id=46805665</a></p>\n<p>Points: 648</p>\n<p># Comments: 107</p>\n",
+      "contentSnippet": "See also https://ibiblio.org/harris/500milemail-faq.html\nComments URL: https://news.ycombinator.com/item?id=46805665\nPoints: 648\n# Comments: 107",
+      "creator": "giancarlostoro",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Mermaid ASCII: Render Mermaid diagrams in your terminal",
+      "link": "https://github.com/lukilabs/beautiful-mermaid",
+      "pubDate": "Thu, 29 Jan 2026 02:08:40 +0000",
+      "isoDate": "2026-01-29T02:08:40.000Z",
+      "content": "\n<p><a href=\"https://github.com/AlexanderGrooff/mermaid-ascii\" rel=\"nofollow\">https://github.com/AlexanderGrooff/mermaid-ascii</a><p><a href=\"https://mermaid-ascii.art/\" rel=\"nofollow\">https://mermaid-ascii.art/</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46804828\">https://news.ycombinator.com/item?id=46804828</a></p>\n<p>Points: 397</p>\n<p># Comments: 66</p>\n",
+      "contentSnippet": "https://github.com/AlexanderGrooff/mermaid-ascii\nhttps://mermaid-ascii.art/\nComments URL: https://news.ycombinator.com/item?id=46804828\nPoints: 397\n# Comments: 66",
+      "creator": "mellosouls",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Please don't say mean things about the AI I just invested a billion dollars in",
+      "link": "https://www.mcsweeneys.net/articles/please-dont-say-mean-things-about-the-ai-that-i-just-invested-a-billion-dollars-in",
+      "pubDate": "Wed, 28 Jan 2026 23:36:23 +0000",
+      "isoDate": "2026-01-28T23:36:23.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.mcsweeneys.net/articles/please-dont-say-mean-things-about-the-ai-that-i-just-invested-a-billion-dollars-in\">https://www.mcsweeneys.net/articles/please-dont-say-mean-things-about-the-ai-that-i-just-invested-a-billion-dollars-in</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46803356\">https://news.ycombinator.com/item?id=46803356</a></p>\n<p>Points: 653</p>\n<p># Comments: 301</p>\n",
+      "contentSnippet": "Article URL: https://www.mcsweeneys.net/articles/please-dont-say-mean-things-about-the-ai-that-i-just-invested-a-billion-dollars-in\nComments URL: https://news.ycombinator.com/item?id=46803356\nPoints: 653\n# Comments: 301",
+      "creator": "randycupertino",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "UK Government’s ‘AI Skills Hub’ was delivered by PwC for £4.1M",
+      "link": "https://mahadk.com/posts/ai-skills-hub",
+      "pubDate": "Wed, 28 Jan 2026 23:16:12 +0000",
+      "isoDate": "2026-01-28T23:16:12.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://mahadk.com/posts/ai-skills-hub\">https://mahadk.com/posts/ai-skills-hub</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46803119\">https://news.ycombinator.com/item?id=46803119</a></p>\n<p>Points: 396</p>\n<p># Comments: 145</p>\n",
+      "contentSnippet": "Article URL: https://mahadk.com/posts/ai-skills-hub\nComments URL: https://news.ycombinator.com/item?id=46803119\nPoints: 396\n# Comments: 145",
+      "creator": "JustSkyfall",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Tesla ending Models S and X production",
+      "link": "https://www.cnbc.com/2026/01/28/tesla-ending-model-s-x-production.html",
+      "pubDate": "Wed, 28 Jan 2026 22:53:54 +0000",
+      "isoDate": "2026-01-28T22:53:54.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.cnbc.com/2026/01/28/tesla-ending-model-s-x-production.html\">https://www.cnbc.com/2026/01/28/tesla-ending-model-s-x-production.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46802867\">https://news.ycombinator.com/item?id=46802867</a></p>\n<p>Points: 544</p>\n<p># Comments: 1127</p>\n",
+      "contentSnippet": "Article URL: https://www.cnbc.com/2026/01/28/tesla-ending-model-s-x-production.html\nComments URL: https://news.ycombinator.com/item?id=46802867\nPoints: 544\n# Comments: 1127",
+      "creator": "keyboardJones",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Somebody used spoofed ADSB signals to raster the meme of JD Vance",
+      "link": "https://alecmuffett.com/article/143548",
+      "pubDate": "Wed, 28 Jan 2026 21:50:47 +0000",
+      "isoDate": "2026-01-28T21:50:47.000Z",
+      "content": "\n<p><a href=\"https://archive.ph/VrEtg\" rel=\"nofollow\">https://archive.ph/VrEtg</a><p><a href=\"https://globe.adsbexchange.com/?icao=adfdf9&lat=26.678&lon=-80.030&zoom=14.4&showTrace=2026-01-28\" rel=\"nofollow\">https://globe.adsbexchange.com/?icao=adfdf9&lat=26.678&lon=-...</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46802067\">https://news.ycombinator.com/item?id=46802067</a></p>\n<p>Points: 539</p>\n<p># Comments: 146</p>\n",
+      "contentSnippet": "https://archive.ph/VrEtg\nhttps://globe.adsbexchange.com/?icao=adfdf9&lat=26.678&lon=-...\nComments URL: https://news.ycombinator.com/item?id=46802067\nPoints: 539\n# Comments: 146",
+      "creator": "wubin",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Apple to soon take up to 30% cut from all Patreon creators in iOS app",
+      "link": "https://www.macrumors.com/2026/01/28/patreon-apple-tax/",
+      "pubDate": "Wed, 28 Jan 2026 20:59:30 +0000",
+      "isoDate": "2026-01-28T20:59:30.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.macrumors.com/2026/01/28/patreon-apple-tax/\">https://www.macrumors.com/2026/01/28/patreon-apple-tax/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46801419\">https://news.ycombinator.com/item?id=46801419</a></p>\n<p>Points: 1043</p>\n<p># Comments: 863</p>\n",
+      "contentSnippet": "Article URL: https://www.macrumors.com/2026/01/28/patreon-apple-tax/\nComments URL: https://news.ycombinator.com/item?id=46801419\nPoints: 1043\n# Comments: 863",
+      "creator": "pier25",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "That's not how email works",
+      "link": "https://danq.me/2026/01/28/hsbc-dont-understand-email/",
+      "pubDate": "Wed, 28 Jan 2026 18:12:02 +0000",
+      "isoDate": "2026-01-28T18:12:02.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://danq.me/2026/01/28/hsbc-dont-understand-email/\">https://danq.me/2026/01/28/hsbc-dont-understand-email/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46799304\">https://news.ycombinator.com/item?id=46799304</a></p>\n<p>Points: 307</p>\n<p># Comments: 180</p>\n",
+      "contentSnippet": "Article URL: https://danq.me/2026/01/28/hsbc-dont-understand-email/\nComments URL: https://news.ycombinator.com/item?id=46799304\nPoints: 307\n# Comments: 180",
+      "creator": "HotGarbage",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Oban, the job processing framework from Elixir, has come to Python",
+      "link": "https://www.dimamik.com/posts/oban_py/",
+      "pubDate": "Wed, 28 Jan 2026 16:32:00 +0000",
+      "isoDate": "2026-01-28T16:32:00.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.dimamik.com/posts/oban_py/\">https://www.dimamik.com/posts/oban_py/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46797594\">https://news.ycombinator.com/item?id=46797594</a></p>\n<p>Points: 266</p>\n<p># Comments: 103</p>\n",
+      "contentSnippet": "Article URL: https://www.dimamik.com/posts/oban_py/\nComments URL: https://news.ycombinator.com/item?id=46797594\nPoints: 266\n# Comments: 103",
+      "creator": "dimamik",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Amazon cuts 16k jobs",
+      "link": "https://www.reuters.com/legal/litigation/amazon-cuts-16000-jobs-globally-broader-restructuring-2026-01-28/",
+      "pubDate": "Wed, 28 Jan 2026 15:39:11 +0000",
+      "isoDate": "2026-01-28T15:39:11.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.reuters.com/legal/litigation/amazon-cuts-16000-jobs-globally-broader-restructuring-2026-01-28/\">https://www.reuters.com/legal/litigation/amazon-cuts-16000-jobs-globally-broader-restructuring-2026-01-28/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46796745\">https://news.ycombinator.com/item?id=46796745</a></p>\n<p>Points: 689</p>\n<p># Comments: 957</p>\n",
+      "contentSnippet": "Article URL: https://www.reuters.com/legal/litigation/amazon-cuts-16000-jobs-globally-broader-restructuring-2026-01-28/\nComments URL: https://news.ycombinator.com/item?id=46796745\nPoints: 689\n# Comments: 957",
+      "creator": "DGAP",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Airfoil (2024)",
+      "link": "https://ciechanow.ski/airfoil/",
+      "pubDate": "Wed, 28 Jan 2026 14:32:30 +0000",
+      "isoDate": "2026-01-28T14:32:30.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://ciechanow.ski/airfoil/\">https://ciechanow.ski/airfoil/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46795908\">https://news.ycombinator.com/item?id=46795908</a></p>\n<p>Points: 521</p>\n<p># Comments: 59</p>\n",
+      "contentSnippet": "Article URL: https://ciechanow.ski/airfoil/\nComments URL: https://news.ycombinator.com/item?id=46795908\nPoints: 521\n# Comments: 59",
+      "creator": "brk",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Microsoft forced me to switch to Linux",
+      "link": "https://www.himthe.dev/blog/microsoft-to-linux",
+      "pubDate": "Wed, 28 Jan 2026 14:28:21 +0000",
+      "isoDate": "2026-01-28T14:28:21.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.himthe.dev/blog/microsoft-to-linux\">https://www.himthe.dev/blog/microsoft-to-linux</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46795864\">https://news.ycombinator.com/item?id=46795864</a></p>\n<p>Points: 1830</p>\n<p># Comments: 1463</p>\n",
+      "contentSnippet": "Article URL: https://www.himthe.dev/blog/microsoft-to-linux\nComments URL: https://news.ycombinator.com/item?id=46795864\nPoints: 1830\n# Comments: 1463",
+      "creator": "bobsterlobster",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "ICE and Palantir: US agents using health data to hunt illegal immigrants",
+      "link": "https://www.bmj.com/content/392/bmj.s168",
+      "pubDate": "Wed, 28 Jan 2026 12:18:12 +0000",
+      "isoDate": "2026-01-28T12:18:12.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.bmj.com/content/392/bmj.s168\">https://www.bmj.com/content/392/bmj.s168</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46794365\">https://news.ycombinator.com/item?id=46794365</a></p>\n<p>Points: 445</p>\n<p># Comments: 254</p>\n",
+      "contentSnippet": "Article URL: https://www.bmj.com/content/392/bmj.s168\nComments URL: https://news.ycombinator.com/item?id=46794365\nPoints: 445\n# Comments: 254",
+      "creator": "dberhane",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "Show HN: The HN Arcade",
+      "link": "https://andrewgy8.github.io/hnarcade/",
+      "pubDate": "Wed, 28 Jan 2026 10:50:32 +0000",
+      "isoDate": "2026-01-28T10:50:32.000Z",
+      "content": "\n<p>I love seeing all the small games that people build and post to this site.<p>I don't want to forget any, so I have built a directory/arcade for the games here that I maintain.<p>Feel free to check it out, add your game if its missing and let me know what you think. Thanks!</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46793693\">https://news.ycombinator.com/item?id=46793693</a></p>\n<p>Points: 344</p>\n<p># Comments: 113</p>\n",
+      "contentSnippet": "I love seeing all the small games that people build and post to this site.\nI don't want to forget any, so I have built a directory/arcade for the games here that I maintain.\nFeel free to check it out, add your game if its missing and let me know what you think. Thanks!\nComments URL: https://news.ycombinator.com/item?id=46793693\nPoints: 344\n# Comments: 113",
+      "creator": "yuppiepuppie",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    },
+    {
+      "title": "ASML staffing changes could result in a net reduction of around 1700 positions",
+      "link": "https://www.asml.com/en/news/press-releases/2026/strengthening-focus-on-engineering-and-innovation",
+      "pubDate": "Wed, 28 Jan 2026 08:02:42 +0000",
+      "isoDate": "2026-01-28T08:02:42.000Z",
+      "content": "\n<p>Article URL: <a href=\"https://www.asml.com/en/news/press-releases/2026/strengthening-focus-on-engineering-and-innovation\">https://www.asml.com/en/news/press-releases/2026/strengthening-focus-on-engineering-and-innovation</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=46792370\">https://news.ycombinator.com/item?id=46792370</a></p>\n<p>Points: 334</p>\n<p># Comments: 349</p>\n",
+      "contentSnippet": "Article URL: https://www.asml.com/en/news/press-releases/2026/strengthening-focus-on-engineering-and-innovation\nComments URL: https://news.ycombinator.com/item?id=46792370\nPoints: 334\n# Comments: 349",
+      "creator": "dep_b",
+      "summary": "无法生成摘要。AI 模型暂时不可用。"
+    }
+  ],
+  "lastUpdated": "2026-01-30T09:09:35.218Z"
+}
